@@ -1,0 +1,50 @@
+
+
+os
+chap 1: Segementation
+1.1 partitioning paging and segmentation
+1.2 virtual memory
+1.3 Page faults
+1.4 algers translation nd pge fault handling
+1.5 memory mnagement with hard ware devices
+	1.5.1 page table and translation
+1.6 memory management algorithms
+	1.6.1 fetch policy
+	1.6.2 replcement policy
+	
+chap 2 : Input/Output management and Disk scheduling
+2.1 input/output devices
+2.2 organisation of input/output functionalities
+2.3 input/output buffering
+2.4 Disk scheduling and Raid
+
+chap 3: file management
+3.1 file systems
+	3.1.1 file system interface
+	3.1.2 file system structures
+3.2 organisation of files and directories
+3.3 secondary storage managem't
+3.4 file systems (Fat and NTFS)
+3.5 file protection and security
+
+chap 4: Deadlocks
+4.1 conditions for deadlock
+4.2 deadlock avoidance
+4.3 deadlock prevention
+4.4 final research on deadlocks
+
+chap 5:Multi-processor systems
+5.1 multi-computers
+5.2 virtualisation
+5.3 distributed systems
+
+chap 6: operating systems security
+6.1 cryptography
+6.2 authentication
+6.3 malware
+
+chap 7:operating system designs
+7.1 case study: Linux or Windows or Symbian OS
+
+
+

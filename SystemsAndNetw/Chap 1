@@ -1,0 +1,7 @@
+CHAPTER ONE : Segmentation
+
+within the computer system, the os handles all types of jobs b it hardware related, software related , or both. if memory has to be properly managed within a computer system, then there is a need for partitioning, paging and segmentation. 
+
+1.1 partitioning, paging and segmentation
+
+partitioning in the context of os is the act of sharing memory locations into different portions called segments wc cn b used by different processes eunning within the computer system. On the other hand, segmantation is the act of allocatingnon contiguous memory locations to different programs(processes) within the computer system . with segmentation, memory allocation is not shared evenly moungst the various processes running . /*virtual memory lookup dude*/ with paging, memory allocation within the computer system is done evenly irrespective of the number of sub-processes within a given process . or example, if a memory size is 2gig within a computer sys nd there are 4 processes running , Each of these processes will be allocated 512mib onlike segmentation wc involves allocating more memory space toprocesses with more sub-processes . 
