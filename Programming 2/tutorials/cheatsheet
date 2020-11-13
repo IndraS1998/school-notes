@@ -1,0 +1,4 @@
+dotnet new console -lang "vb" = initializing a new dotnet project for vb 
+    removing the lng flag initializes a c# project
+
+dotnet run compiles and runs the code

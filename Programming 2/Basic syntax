@@ -1,0 +1,40 @@
+when we consider a vb.net program it can be defined as a collection of objects that communicate via invoking each other's method 
+Lets now briefly look into what do class, object, methods and instance variable mean
+
+								OBJECTS
+
+Object have state and behaviours. example: a dog has state color, name, breed, as well as behaviour:wagging,backing,eating etc
+an object is an instance of a class 
+
+								CLASS
+
+a class can be defined as a template/blue print that describes the behaviours/states that objects of its type supports
+
+								METHODS
+
+a method is basically a behaviour. a clss cn contin many methods. it is in methods where the logics are written data is mnuopulaed and all the actions are executed 
+
+							INSTANCE VARIABLES
+
+each object has its unique set of instance variables. an object's state is created by values assigned to these instance vriables  
+
+
+							
+							
+							IDENTIFIERS	
+	
+an identifier is a name used to identify a class,variable,functions or any user defined item. the basic rule for running classes in vb.net are as follows:
+- a name must beggin with a letter that could be followed by a sequence of letters,digits(0-9) or underscore(_) . the first character in an identifier can not be a digit 
+-it must not contain anny embedded space or symbol like ?,-,+,@,!,#,%,^,[] and /. however an _ can be used 
+-it should not be a reserved keyword 
+
+							DATA TYPES
+
+a data type reffers to an extensive system used to declare varibles or functions of different types , thetype of a varible determined how muchspace it occupied in storageand how the bits pttern stored is interpreted.
+
+VARIABLES
+
+a variable is nothing but a name given to a storage area that our programs can manipulate. each variable in vb.net has a specific type, whichdetermines the siwe and layout of the variable's memory; the range of vlues that can be stored within the memory and the set of operations that can be applied to the variable 
+hw- write a program to add two numbers
+2-program a chess board with 12seats (phase one design the board) 
+   

@@ -1,0 +1,10 @@
+compile and execute vb.net program
+
+1-start visual studio 
+2-on the menu bar, choose file->new->project
+3-choose visual basic from template
+4-choose console application
+5-specify a name and location for your project using the browse button, and then choose the ok button
+6-the new project appears in solution explorer
+7- write code in the code editor
+8-click the run button or the f5 key to run the code. A command promp window appears that contains the line hello world 

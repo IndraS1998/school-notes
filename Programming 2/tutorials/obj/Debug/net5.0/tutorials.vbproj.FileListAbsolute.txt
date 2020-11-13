@@ -1,0 +1,16 @@
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/tutorials
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/tutorials.deps.json
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/tutorials.runtimeconfig.json
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/tutorials.runtimeconfig.dev.json
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/tutorials.dll
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/ref/tutorials.dll
+/home/randy/Desktop/school/Programming 2/tutorials/bin/Debug/net5.0/tutorials.pdb
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.vbprojAssemblyReference.cache
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.GeneratedMSBuildEditorConfig.editorconfig
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.AssemblyInfoInputs.cache
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.AssemblyInfo.vb
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.vbproj.CoreCompileInputs.cache
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.dll
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/ref/tutorials.dll
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.pdb
+/home/randy/Desktop/school/Programming 2/tutorials/obj/Debug/net5.0/tutorials.genruntimeconfig.cache
